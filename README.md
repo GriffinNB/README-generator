@@ -22,7 +22,7 @@
   [MIT](https://opensource.org/licenses/MIT)
 
   ## Description
-  Generates a professional README. This application is for the MSU Full Stack Coding Bootcamp. Various tutorials and walkthroughs were use in the development of this project. Special thanks to FreeCodeCamp.
+  Generates a professional README. This application is for the MSU Full Stack Coding Bootcamp. Various tutorials and walkthroughs were used in the development of this project. Special thanks to FreeCodeCamp.
 
   ## Link to Demo
   [Video](https://drive.google.com/file/d/1cbvv7mo5yp_Lht-Ti-5upUWKc7RON7Kh/view)
