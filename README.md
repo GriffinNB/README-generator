@@ -9,8 +9,8 @@
   * [License](#license)
   * [Description](#description)
   * [Link to Demo](#link-to-demo)
-  * [Link to Site]() 
-  * [Link to Repo]()
+  * [Link to Site](#link-to-site) 
+  * [Link to Repo](#link-to-repo)
   * [Installation](#installation)
   * [Usage](#usage)
   * [How to Contribute](#how-to-contribute)
@@ -22,14 +22,17 @@
   [MIT](https://opensource.org/licenses/MIT)
 
   ## Description
-  Generates a Professional README
+  Generates a professional README. This application is for the MSU Full Stack Coding Bootcamp. Various tutorials and walkthroughs were use in the development of this project. Special thanks to FreeCodeCamp.
 
   ## Link to Demo
   [Video](https://drive.google.com/file/d/1cbvv7mo5yp_Lht-Ti-5upUWKc7RON7Kh/view)
 
   ## Link to Site
+  [Site](https://griffinnb.github.io/README-generator/)
 
   ## Link to Repo
+  [Repo](https://github.com/GriffinNB/README-generator)
+
 
   ## Installation
   Clone this repo to your IDE
